@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "C/C",
+        "#C#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:leather"
+        },
+        "C": {
+            "item": "minecraft:clay_ball"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:player_head",
+        "count": 1
+    }
+}
