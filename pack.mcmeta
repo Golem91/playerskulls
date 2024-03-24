@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 31,
-    "description": "Put potions on the \"stick\" to save up space"
+    "pack_format": 36,
+    "description": "Craft player heads and rename then to obtain a specific player's head"
   }
 }
